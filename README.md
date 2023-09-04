@@ -21,4 +21,6 @@
   <img alt="separator" src="https://uwu.so/mishashto/mieX0JVGFA">
   <br><br><br><br>
   <img alt="legal" src="https://uwu.so/mishashto/mihuOyURU6">
+  <img alt="legal_jp" src="https://uwu.so/mishashto/mifxjBWZ2I">
+  <img alt="legal_cn" src="https://uwu.so/mishashto/mik17jTDYq">
 </p>
