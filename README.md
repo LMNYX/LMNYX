@@ -8,7 +8,7 @@
   <a target="_blank" href="https://mishashto.jp/omo">
     <img alt="mishashto.jp/omo" src="https://uwu.so/mishashto/mijTIKvNYX">
   </a><br><br><br><br>
-  <a target="_blank" href="https://twitter.com/mishashtoes">
+  <a target="_blank" href="https://twitter.com/mishashto">
     <img alt="twitter" src="https://uwu.so/mishashto/miQxKP3Vh4" width="64">
   </a>
   <a target="_blank" href="https://discord.gg/n9ysBD6G6Q">
