@@ -24,7 +24,7 @@
   <img alt="legal_jp" src="https://uwu.so/mishashto/mifxjBWZ2I">
   <img alt="legal_cn" src="https://uwu.so/mishashto/mik17jTDYq">
 </p>
-<a href='https://reze.moe'>
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://github.com/LMNYX/LMNYX/blob/main/lobster.gif?raw=true');]{x0000}$}
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 101; position: fixed; top: 0; left: 0; height: 100vh; opacity: 0.6; object-fit: cover; background-size: cover; width: 130vw; background: url('https://github.com/LMNYX/LMNYX/blob/main/cooltext459899148431702.gif?raw=true');]{x0000}$}
