@@ -24,3 +24,6 @@
   <img alt="legal_jp" src="https://uwu.so/mishashto/mifxjBWZ2I">
   <img alt="legal_cn" src="https://uwu.so/mishashto/mik17jTDYq">
 </p>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media1.tenor.com/m/f-TOEGJw3ukAAAAC/tell-em-to-bring-out-the-lobster-lobster.gif');]{x0000}$}
