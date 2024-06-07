@@ -36,4 +36,3 @@
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 102; position: fixed; right: 0; top: 0; width: 440px; height: 248px; background-image: url('https://github.com/LMNYX/LMNYX/blob/main/gta5.gif?raw=true'); background-size: 100%; opacity: 1;]{x0000}$}
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 102; position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 320px; height: 180px; background-image: url('https://github.com/LMNYX/LMNYX/blob/main/parkour.gif?raw=true'); background-size: 100%; opacity: 1;]{x0000}$}
 
-220x124
