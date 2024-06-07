@@ -27,3 +27,4 @@
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; animation-name: tooltip-appear; animation-duration: .1s; animation-fill-mode: forwards; animation-timing-function: ease-in; background: url('https://github.com/LMNYX/LMNYX/blob/main/lobster.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 101; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; animation-name: tooltip-appear; animation-duration: .1s; animation-fill-mode: forwards; animation-timing-function: ease-in; background: url('cooltext459899148431702.gif');]{x0000}$}
